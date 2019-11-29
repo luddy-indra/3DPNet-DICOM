@@ -19,7 +19,7 @@ and 3d_print.py (send stereolithography file to the 3D Printer). The programming
   3. Bone Segmentation and Reconstruction from DICOM file, using Improved Marching Cube Algorithm (G.L. Masala, B. Golosio, 
      and P. Oliva, "An ImprovedMarching Cube Algorithm for 3D Data Segmentation", Computer Physics Communication, vol. 184, 
      no. 3, pp. 777-782, March 2013).
-  4. Confert to stereolithography file and save to history stl folder and temporary stl folder.
+  4. Convert to stereolithography file and save to history stl folder and temporary stl folder.
 
   The algorithm of 3d_print.py is:
   Loop:
