@@ -32,5 +32,7 @@ and 3d_print.py (send stereolithography file to the 3D Printer). The programming
   7. If printing process is finish the send notification to customer order (doctor / patient) via email.
   End Loop.
   
-Note: Communication 3D Printer with computer using OctoPrint remote system <https://github.com/OctoPrint). 
-      Receiver communication with 3D Printer using Raspberry Pi 3 
+  Note: 
+  1. Communication 3D Printer with computer using OctoPrint remote system <https://github.com/OctoPrint). 
+  2. Receiver communication with 3D Printer using Raspberry Pi 3.
+  3. SSH Client used to connect to a remote server using PuTTY <https://www.putty.org>.
