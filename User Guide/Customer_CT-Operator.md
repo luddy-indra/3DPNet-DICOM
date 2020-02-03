@@ -16,6 +16,7 @@ After login, customer can use the services of the 3DPNet-DICOM software applicat
 Figure 3. Homepage Display
 
 
+
 ***CT-Scan operator (customer) upload a DICOM file.***
 
 Step 1: Customers can upload DICOM files. One 3D DICOM image must be saved in a .zip file format. The display upload page can be seen in Figure 4.
@@ -29,7 +30,10 @@ Step 2: After uploading the DICOM file in .zip format, a display will appear as 
 Figure 5. Upload Notification Display
 
 
+
 ***CT-Scan operator (customer) receive 3D Printer notification.***
 
 After the printing process is complete, the notification is sent via email. Display notifications in the form of emails can be seen in Figure 6.
 
+![image](https://user-images.githubusercontent.com/57787279/73624882-1c694380-4675-11ea-856e-57144200f9f7.png)
+Figure 6. Email Notification Display
