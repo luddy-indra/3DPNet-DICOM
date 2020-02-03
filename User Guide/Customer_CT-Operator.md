@@ -1,6 +1,4 @@
-CT-Scan operator (customer) uploads DICOM files.
-
-1) Is the first time a user using the 3DPNet-DICOM Software application?
+CT-Scan operator (customer) login s 3DPNet-DICOM application software..
 
 a) If the customer is using the 3DPNet-DICOM software for the first time, the customer is required to register. The data that must be filled in for the registration process are: username, password, consumer's name, consumer's mobile number, and email address. Display the registration form in the 3DPNet-DICOM application can be seen in Figure 1.
 
