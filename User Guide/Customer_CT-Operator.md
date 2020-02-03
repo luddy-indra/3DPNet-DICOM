@@ -20,5 +20,16 @@ Figure 3. Homepage Display
 
 Step 1: Customers can upload DICOM files. One 3D DICOM image must be saved in a .zip file format. The display upload page can be seen in Figure 4.
 
+![image](https://user-images.githubusercontent.com/57787279/73624866-03f92900-4675-11ea-8573-956fa21c551c.png)
+Figure 4. Upload DICOM File Display
 
 Step 2: After uploading the DICOM file in .zip format, a display will appear as shown in Figure 5.
+
+![image](https://user-images.githubusercontent.com/57787279/73624882-1c694380-4675-11ea-856e-57144200f9f7.png)
+Figure 5. Upload Notification Display
+
+
+***CT-Scan operator (customer) receive 3D Printer notification.***
+
+After the printing process is complete, the notification is sent via email. Display notifications in the form of emails can be seen in Figure 6.
+
