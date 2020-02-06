@@ -8,7 +8,7 @@
 Or at http://www.gnu.org/licenses/gpl-3.0txt.
 
 # Internal
-  3DPNet-DICOM structure consist of two main programs, namely app.py (convert DICOM file to stereolithography file) 
+  3DPNet-DICOM structure consist of two main programs, namely app.py (convert DICOM file to stereolithography file, include StlConvert.py) 
 and 3d_print.py (send stereolithography file to the 3D Printer). The programming language uses Python ver. 3.x.
   
   The algorithm of app.py is:
