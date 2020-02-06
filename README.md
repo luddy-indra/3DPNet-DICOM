@@ -8,8 +8,7 @@
 Or at http://www.gnu.org/licenses/gpl-3.0txt.
 
 # Internal
-  3DPNet-DICOM structure consist of two main programs, namely app.py (convert DICOM file to stereolithography file, include StlConvert.py) 
-and 3d_print.py (send stereolithography file to the 3D Printer). The programming language uses Python ver. 3.x.
+  3DPNet-DICOM structure consist of two main programs, namely app.py (convert DICOM file to stereolithography file, include StlConverter.py) and 3d_print.py (send stereolithography file to the 3D Printer). The programming language uses Python ver. 3.x.
   
   The algorithm of app.py is:
   1. Upload DICOM file in zip format, using web application.
@@ -23,8 +22,8 @@ and 3d_print.py (send stereolithography file to the 3D Printer). The programming
   Loop:
   1. Connect 3D Printer status.
   2. If (3D Printer is ready) and (temporay stl folder has contents) then read previous stl file.
-  3. Slicing stl file using API CuraEngine 15.04.6 <https://github.com/Ultimaker/CuraEngine>
-  4. Resize 3D image dimension with the working area of 3D Printer.
+  3. Resize 3D image dimension with the working area of 3D Printer.
+  4. Slicing stl file using API CuraEngine 15.04.6 <https://github.com/Ultimaker/CuraEngine>
   5. Convert to GCode file.
   6. Send GCode file to 3D Printer, heating, and printing process.
   7. If printing process is finish the send notification to customer order (doctor / patient) via email.
