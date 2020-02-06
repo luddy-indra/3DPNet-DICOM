@@ -1,9 +1,7 @@
 # 3DPNet-DICOM
-  3DPNet-DICOM is an application software used to print DICOM files (from CT-Scan) using a 3D printer automatically 
-(without User Interface during the process). 3DPNet-DICOM based on cloud.The object of the medical image is focused on the bone. 
+  3DPNet-DICOM is a new application software used to print DICOM files (from CT-Scan) using two 3D printers automatically. 3DPNet-DICOM based on the cloud.The object of the medical image is focused on the bone. 
 
-  3DPNet-DICOM can be used seperately or in other applications. Feel free to add it to your application. 
-But please take note of the License.
+  3DPNet-DICOM can be used seperately or in other applications. Feel free to add it to your application. But please take note of the License.
 
 # License
   3DPNet-DICOM is released under terms of the GNU GPL v3 License. Terms of the license can be found in the LICENSE file. 
