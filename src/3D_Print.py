@@ -28,12 +28,12 @@ tmp_email2 = ''
 resp_1 = ''
 resp_2 = ''
 
-set 3d print 1 T-Bot
+#set 3d print 1 T-Bot
 set_x1 = 110
 set_y1 = 120
 set_z1 = 170
 
-set 3d print 2 Ender 3 Pro
+#set 3d print 2 Ender 3 Pro
 set_x2 = 220
 set_y2 = 220
 set_z2 = 250
