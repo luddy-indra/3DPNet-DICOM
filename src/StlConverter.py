@@ -91,6 +91,8 @@ class StlConverter:
         return imgs_after_resamp
 
     def make_mesh(self, image, threshold=-300, step_size=1):
+        # Original cobe by Howard Chen, from Radiology Data Quest,
+        # accesed at http://www.raddq.com/dicom-processing-segmentation-visulation-in-python/
         #print("Transposing surface")
         p = image.transpose(2,1,0)  
         
