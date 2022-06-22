@@ -6,7 +6,7 @@ mysql-connector-python==8.0.18
 MySQL-python==1.2.5
 mysqlclient==1.4.4
 networkx==1.11
-numpy==1.13.3
+numpy==1.22.0
 numpy-stl==2.10.1
 pandas==0.24.2
 pathlib==1.0.1
